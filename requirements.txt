@@ -3,5 +3,4 @@ torchvision
 pillow
 matplotlib
 scikit-learn
-sklearn
 seaborn
